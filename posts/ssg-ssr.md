@@ -1,5 +1,5 @@
 ---
-title: "When to Use Static Generation v.s. Server-side Rendering"
+title: "伝説的不条理ハジケアニメの鼻毛選抜"
 date: "2020-01-11"
 ---
 
