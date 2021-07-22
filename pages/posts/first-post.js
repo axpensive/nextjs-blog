@@ -6,7 +6,7 @@ export default function FirstPost() {
   return (
     <Layout>
       <Head>
-        <title>takai</title>
+        <title>TT KK</title>
       </Head>
       <h1>First Post</h1>
       <h2>

@@ -4,8 +4,8 @@ import styles from "./layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
-const name = "Takai Akihiro";
-export const siteTitle = "Takaiの実験場";
+const name = "TT KK";
+export const siteTitle = "TT KKの実験場";
 
 export default function Layout({ children, home }) {
   return (
